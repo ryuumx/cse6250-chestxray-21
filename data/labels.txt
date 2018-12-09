@@ -1,0 +1,14 @@
+Cardiomegaly
+Hernia
+Nodule
+Atelectasis
+Mass
+Consolidation
+Effusion
+Pneumonia
+Emphysema
+Fibrosis
+Pneumothorax
+Edema
+Infiltration
+Pleural_Thickening
